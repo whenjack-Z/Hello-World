@@ -1,11 +1,14 @@
 
 public class Test {
-	private void mian() {
-		// TODO Auto-generated method stub
-		
-	}
+	
+	String i = "ad";
+	
+	int a = 1;
+	
 	public static void main(String[] args) {
 		System.out.println("sdfß");
 	}
+	
+	
 	
 }
